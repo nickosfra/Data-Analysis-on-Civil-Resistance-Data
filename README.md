@@ -9,7 +9,7 @@ The assignment consists of **7 Sections**, which are explicitly stated in the [A
 - examining the effect of participation on the probability of campaign success
 - examining whether location affects the campaign's result
 
-The analysis can be found [here](https://www.ericachenoweth.com/wp-content/uploads/2012/01/Data-and-Replication-Files-3.zip)
+The analysis can be found [here](https://github.com/nickosfra/Data-Analysis-on-Civil-Resistance-Data/blob/master/Why_Civil_Resistance_Works-Analysis.ipynb)
 
 ## Dataset
 
